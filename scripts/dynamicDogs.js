@@ -49,6 +49,7 @@ const whitney_text = `<h2>Whitney</h2>
 <ul>
     <li>Født 8/5-2018</li>
     <li>Farge grå, svart, rød og hvit</li>
+    <li><b>Patella:</b>0/0</li>
 </ul>
 <p>Vi hentet lille Whitneyen vår i Kristiansund i juli, og det ut som vi
 har fått en drøm av en hund. Whitney er rolig, trygg og elsker alle hun møter.
