@@ -11,7 +11,7 @@ navigation_bar.innerHTML = `<div id="navbar">
         <li id="hunder"><a id="ourDogs_link" href="#">Våre hunder ▾</a>
               <ul>
                     <li class="under_hunder"><a href="ourDogs.html?goldie">Goldie</a></li>
-                    <li class="under_hunder"><a href="ourDogs.html?arianna">Ariana</a></li>
+                    <li class="under_hunder"><a href="ourDogs.html?arianna">Arianna</a></li>
                     <li class="under_hunder"><a href="ourDogs.html?whitney">Whitney</a></li>
                     <li class="under_hunder"><a href="ourDogsPuppies.html">Valper</a></li>
                     <li class="under_hunder"><a href="ourDogsActivities.html">Aktiviteter</a></li>

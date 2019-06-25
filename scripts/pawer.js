@@ -13,8 +13,8 @@ paw.innerHTML = `<ul class="footerInfo">
     Teigestova Kennel<br>
     Breivikveien 133<br>
     6014 Ålesund<br>
-    Tlf: <a href="tel:+47-417-61-492">417 61 492</a><br>
-    E-post: <a href="mailto:birgitte.heggstad@mimer.no">birgitte.heggstad@mimer.no</a>
+    <a href="https://www.facebook.com/Kennel-Teigestova-177051169902423/" target"_blank">Facebook</a><br>
+    E-post: <a href="mailto:kontakt@teigestova.no">kontakt@teigestova.no</a>
 </address>`
 
     
